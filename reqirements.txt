@@ -1,0 +1,17 @@
+streamlit>=1.20
+transformers
+torch
+deepface
+Pillow
+numpy
+pandas
+librosa
+soundfile
+scikit-learn
+gunicorn
+sounddevice
+soundfile
+librosa
+numpy
+streamlit
+
